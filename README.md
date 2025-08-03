@@ -3,8 +3,8 @@
 **`Desenvolvedor de Software em Transição`**
 
 Com 43 anos e natural de São Paulo, trago para o Desenvolvimento de Sistemas uma vasta experiência em Automação Industrial. Essa bagagem me deu uma visão única para solucionar problemas complexos.
-Minha paixão por tecnologia me motivou a buscar uma nova carreira. |Conclui o curso técnico em Desenvolvimento de Sistemas na ETEC e agora estou no caminho para a graduação em Análise e Desenvolvimento de Sistemas na FIAP.
-Acredito que a tecnologia tem o poder de transormar vidas e estou empenhado para fazer parte dessa mudança. Aqui você encontrará os resultados da minha dedicação e aprendizado contínuo.
+Minha paixão por tecnologia me motivou a buscar uma nova carreira. Conclui o curso técnico em Desenvolvimento de Sistemas na ETEC de São Paulo, e agora estou no caminho para a graduação em Análise e Desenvolvimento de Sistemas na renomada Faculdade FIAP.
+Acredito que a tecnologia tem o poder de transformar vidas e estou empenhado para fazer parte dessa mudança. Aqui você encontrará os resultados da minha dedicação e aprendizado contínuo.
 
 <p align="left">
     <a href="https://github.com/odoneljr?tab=repositories&sort=stargazers">
